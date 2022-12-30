@@ -1,5 +1,8 @@
 ### Hey there, Manuela Anjos! 
 
+<div>
+  <img align="right" alt="Octa-cat" height="250" style="border-radius:50px;" src="https://lh3.googleusercontent.com/chat_attachment/AJh6FpqO8tKCgIDPTtT0ak2WOaLhjz0QNdZlAmQcLRp5Beqdf1eX_ExUuwGobW7IpxJ4HxIE9eEBsMLqXFkqaHvgiUJZ39UyNj0u-Sv77i5npLrPhJGZAPJlK3mmxZSJ8aZx7wkLTAxhh4eGlPS-3oVfiqzuHPvC6rwvDsAwN-NoNDCPUnEOeW8MxDjPnvDMSj7aRTGU40IhgPCSDB0-TyrIph6mLz1O61-ojNkDPaonyM0ENiBuFI_P2ok=w512">
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manuofanjos/)
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-anjos-45b821237/)
