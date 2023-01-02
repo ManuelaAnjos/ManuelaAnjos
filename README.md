@@ -1,7 +1,7 @@
 ### Hey there, Manuela Anjos! 
 
 <div>
-  <img align="right" alt="Octa-cat" height="250" style="border-radius:50px;" src="https://lh3.googleusercontent.com/chat_attachment/AJh6FpqO8tKCgIDPTtT0ak2WOaLhjz0QNdZlAmQcLRp5Beqdf1eX_ExUuwGobW7IpxJ4HxIE9eEBsMLqXFkqaHvgiUJZ39UyNj0u-Sv77i5npLrPhJGZAPJlK3mmxZSJ8aZx7wkLTAxhh4eGlPS-3oVfiqzuHPvC6rwvDsAwN-NoNDCPUnEOeW8MxDjPnvDMSj7aRTGU40IhgPCSDB0-TyrIph6mLz1O61-ojNkDPaonyM0ENiBuFI_P2ok=w512">
+  <img align="right" alt="Octa-cat" height="250" style="border-radius:50px;" src="https://lh3.googleusercontent.com/chat_attachment/AJh6FprQDW4hAxaIJXRSGjuWzeb4IifBy4H4jcn6EN3-7tFX1d6X4WD1CnYScPZrh32MKdbRmo0oCydPg5_SP7q8mlcT2s_Seqo6Nq41NUN9WOQFdzN7OX9VUeBVB6B2to7oVbYbtfnU_fsXcTU33i-b_PYthRN_Urt2wpCRKPxlys0nAlLPmK8Ysjnma9oc2jjqqKW68NkggO1gMmlfXMyK2kmqR9aM3NAog6Bqkhn12jOtKdzp69pGIXI=w512">
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manuofanjos/)
